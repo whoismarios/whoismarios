@@ -2,7 +2,7 @@
 
 # Hello There <img style="width:50px; height:50px;" src="https://lumiere-a.akamaihd.net/v1/images/image_24de51ea.gif" />
 
-I'm Marios, a 27-year-old business informatics student at the University of Reutlingen. 
+I'm Marios, a 28-year-old business informatics student at the University of Reutlingen. 
 With a passion for web development and native application development, 
 I enjoy creating immersive user experiences and efficient code. Constantly seeking growth and collaboration, 
 I'm excited to contribute to the GitHub community and work on exciting projects.
